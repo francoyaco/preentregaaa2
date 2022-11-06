@@ -1,0 +1,18 @@
+header{
+    background-color: rgb(109, 153, 235);
+   
+}
+h1{
+    text-align: center;
+}
+.fotoBanco{
+    display: flex;
+    justify-content: center;
+    background-color: #ccc;
+}
+h2{
+    text-align: center;
+}
+footer{
+   text-align: center;
+}
